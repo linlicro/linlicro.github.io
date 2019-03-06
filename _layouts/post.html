@@ -62,15 +62,6 @@ layout: default
 
                 <hr style="visibility: hidden;">
 
-                <div id="license-container" class="panel panel-default">
-                    <div class="panel-heading">文档版权声明</div>
-                    <div class="panel-body">
-                        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0"
-                                src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
-                        本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
-                    </div>
-                </div>
-
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
@@ -90,6 +81,15 @@ layout: default
                     {% endif %}
                 </ul>
 
+                <div id="license-container" class="panel panel-default">
+                    <div class="panel-heading">文档版权声明</div>
+                    <div class="panel-body">
+                        本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0
+                            国际许可协议</a>进行许可。
+                        <img class="img-responsive" alt="知识共享许可协议" style="border-width:0"
+                            src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" width="88" height="31" />
+                    </div>
+                </div>
 
                 <!--Gitalk评论start  -->
                 {% if site.gitalk.enable %}
