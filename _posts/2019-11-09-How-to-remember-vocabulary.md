@@ -73,7 +73,7 @@ tags:
 * 和其他词的关系: 词组
 * 在句中作什么句子成分: 语法部分
 
-**重点:** 发音**一定一定一定**要标准，一方面影响后续的听力部分，另一方面，更重要的原因 前往[如何用「回音法」學好英文口說 | 史嘉琳 Karen Chung | TEDxNTUST](https://www.youtube.com/watch?v=sQEWEPIHLzQ)。
+**重点:** 发音**一定一定一定**要标准，一方面影响后续的听力部分，另一方面，更重要的原因 前往[如何用「回音法」學好英文口說](https://www.youtube.com/watch?v=sQEWEPIHLzQ)。
 
 **刷词法: 日常任务**
 
