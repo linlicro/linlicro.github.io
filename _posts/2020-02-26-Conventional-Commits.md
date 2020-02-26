@@ -1,4 +1,14 @@
-# 约定式提交规范（Conventional Commits）
+---
+layout:     post
+title:      约定式提交规范（Conventional Commits）
+subtitle:    "\"Conventional Commits\""
+date:       2020-02-26
+author:     Lin
+header-img: img/post-bg-20190906.jpg
+catalog: true
+tags:
+    - git
+---
 
 约定式提交规范是一种基于提交消息的轻量级约定。它提供了一组用于创建清晰的提交历史的简单规则；这使得编写基于规范的自动化工具变得更容易。这个约定与SemVer相吻合，在提交信息中描述新特性、bug 修复和破坏性变更。它的 message 格式如下:
 
