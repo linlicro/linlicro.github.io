@@ -37,7 +37,7 @@ tags:
 
 终端运行安装，以及日常使用`git cz`替代`git commit -m`:
 
-```shell script
+```sh
 # 需 node 环境
 npm install -g commitizen
 # Angular 的 Commit message 格式
