@@ -2,7 +2,7 @@
 layout:     post
 title:      算法专题01 - 养成树的思维方式
 subtitle:    "\"tree-way thinking\""
-date:       2019-11-01
+date:       2020-11-01
 author:     Lin
 header-img: img/post-bg-coding0813.jpeg
 catalog: true

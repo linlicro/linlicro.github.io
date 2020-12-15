@@ -2,7 +2,7 @@
 layout:     post
 title:      算法专题01 - 双指针
 subtitle:    "\"two point sulution\""
-date:       2019-10-01
+date:       2020-10-01
 author:     Lin
 header-img: img/post-bg-coding0813.jpeg
 catalog: true
