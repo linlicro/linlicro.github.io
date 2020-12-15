@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      算法专题01 - 双指针
+title:      算法专题02 - 双指针
 subtitle:    "\"two point sulution\""
 date:       2020-10-01
 author:     Lin
