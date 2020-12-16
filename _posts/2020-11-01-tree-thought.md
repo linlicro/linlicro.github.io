@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      算法专题01 - 养成树的思维方式
+title:      算法专题02 - 养成树的思维方式
 subtitle:    "\"tree-way thinking\""
 date:       2020-11-01
 author:     Lin
