@@ -2,7 +2,7 @@
 layout:     post
 title:      读薄凤凰架构系列 - 事务2
 subtitle:    "\"Transaction\""
-date:       2021-11-05
+date:       2021-12-01
 author:     Lin
 header-img: img/post-bg-black-engineer0524.jpg
 catalog: true
